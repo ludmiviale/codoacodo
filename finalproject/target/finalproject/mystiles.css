@@ -1,0 +1,39 @@
+
+  
+.btn-outline-secondary {
+    --bs-btn-color: #ffffff;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #c2c2c2;
+  }
+  
+  .btn-success { 
+    --bs-btn-bg: #53bb5c;
+    --bs-btn-border-color: #198754;
+    --bs-btn-hover-color: #fff;
+  }
+
+
+  .link-secondary:hover {
+    color: white !important;
+  }
+
+  .link-success:hover {
+    color: rgb(118, 243, 145) !important;
+  }
+
+  .bg-footer {
+    background-color: rgb(38, 75, 99);
+  }
+
+  .link-active {
+    color: white;
+  }
+
+  .link-active:hover {
+    color: rgb(180, 180, 180);
+  }
+
+  .mx-10 {
+    margin-right: 6rem !important;
+    margin-left: 6rem !important;
+  }
